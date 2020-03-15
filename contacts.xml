@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Aleks</first_name>
+	<last_name>Torres</last_name>
+	<phone_number>348734</phone_number>
+	<notes>my notes</notes>
+</contact>
+<contact>
+	<first_name>Ana</first_name>
+	<last_name>Flores</last_name>
+	<phone_number>347834</phone_number>
+	<notes>notes</notes>
+</contact>
+<contact>
+	<first_name>Juan</first_name>
+	<last_name>Gonzales</last_name>
+	<phone_number>3847384</phone_number>
+	<notes>my notifications</notes>
+</contact>
+<contact>
+	<first_name>Jose</first_name>
+	<last_name>Arturo</last_name>
+	<phone_number>34534534</phone_number>
+	<notes>my amix</notes>
+</contact>
+<contact>
+	<first_name>Max</first_name>
+	<last_name>Johnson</last_name>
+	<phone_number>345345</phone_number>
+	<notes>My pal</notes>
+</contact>
+</contacts>
